@@ -1,0 +1,14 @@
+title:         anyxml
+description:   a forgiving, literal XML parser and serializer
+logo:          logo.png
+default_bg:    zman.jpg
+layouts:       ./_includes/_layouts
+url:           "http://zman.io/anyxml"
+    
+timezone:      America/Denver
+permalink:     /posts/:categories/:title
+paginate:      7
+paginate_path: "page:num"
+future:        false
+pygments:      true
+markdown:      redcarpet
